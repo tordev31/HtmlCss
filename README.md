@@ -13,6 +13,8 @@ Project Website HTMLCSS
 - Live previews
 - Fullscreen mode
 - Cross platform
+
+Email theerawt.tr@gmail.com
 <<<<<<< HEAD
 =======
 
